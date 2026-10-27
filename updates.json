@@ -1,0 +1,7 @@
+{
+  "latestVersion": "1.0.3",
+  "downloadUrl": "",
+  "releasedAt": "2026-10-27",
+  "changelog": "Fixed the blank inventory screen (retries, saved-copy fallback, real error messages with Retry, Diagnostics in Settings) and added in-app update checks.",
+  "notes": "The Marketplace Helper app checks this file for new versions."
+}
