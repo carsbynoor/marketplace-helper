@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.0.3",
-  "downloadUrl": "https://www.swisstransfer.com/dl/01a17f21-6f8d-70b8-a274-6ec386719984",
+  "latestVersion": "1.0.4",
+  "downloadUrl": "https://www.swisstransfer.com/dl/01a180b6-8cc4-71ac-9303-923a1b1ec911",
   "releasedAt": "2026-10-27",
-  "changelog": "Fixed the blank inventory screen (retries, saved-copy fallback, real error messages with Retry, Diagnostics in Settings) and added in-app update checks.",
+  "changelog": "Fixed Check prices crashing on every listing, My Listings showing empty, and removed the --no-sandbox banner.",
   "notes": "The Marketplace Helper app checks this file for new versions."
 }
