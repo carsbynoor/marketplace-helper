@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.0.4",
-  "downloadUrl": "https://www.swisstransfer.com/dl/01a180b6-8cc4-71ac-9303-923a1b1ec911",
+  "latestVersion": "1.0.5",
+  "downloadUrl": "https://www.swisstransfer.com/dl/01a185b7-8a09-73e6-b419-1466ee04a64e",
   "releasedAt": "2026-10-27",
-  "changelog": "Fixed Check prices crashing on every listing, My Listings showing empty, and removed the --no-sandbox banner.",
+  "changelog": "Fixed My Listings showing other sellers' listings, Prices tab reading wrong Facebook prices, and the Delete tab showing blank.",
   "notes": "The Marketplace Helper app checks this file for new versions."
 }
