@@ -1,7 +1,7 @@
 {
-  "latestVersion": "2.0.0",
-  "downloadUrl": "https://www.swisstransfer.com/dl/01a18804-5088-724b-87a6-a26f008169e1",
+  "latestVersion": "2.0.1",
+  "downloadUrl": "https://www.swisstransfer.com/dl/01a1884c-f886-726d-b265-dd917174e6b4",
   "releasedAt": "2026-10-27",
-  "changelog": "Full rebuild: rebuilt listing and price readers with retries and verification, a new Diagnose tool that captures what the app sees, and a GTA-style neon theme.",
+  "changelog": "Fix: the My Listings reader now finds your cards from the words on them (price, Listed on, clicks on listing) — Facebook's selling page no longer exposes listing links, which is why v2.0.0 found none. Diagnose now also shows the page's actual link addresses and first card text.",
   "notes": "The Marketplace Helper app checks this file for new versions."
 }
